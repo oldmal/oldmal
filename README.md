@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 <br />
 
-- 👨‍💻 Front-end Developer
-- 🤔 I use daily vue, nuxt, html/css/js
+- 👨‍💻 Frontend Developer
+- 💻 I use daily vue, nuxt, html/css/js
 - I love 🏂 and 🐈
