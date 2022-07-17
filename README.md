@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋, I'm Dmytro</h1>
 <h3 align="center">A passionate frontend developer from Ukraine 🇺🇦</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oldmal&label=Profile%20views&color=0e75b6&style=flat" alt="oldmal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oldmal&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="oldmal" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
