@@ -16,12 +16,14 @@ Here are some ideas to get you started:
 <h3 align="left">Languages and Tools:</h3>
 <table>
   <tr>
-    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a></td>
     <td><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a></td>
     <td><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a></td>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a></td>
+    <td><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="javascript" width="40" height="40"/></a></td>
     <td><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="vuejs" width="40" height="40"/></a></td>
     <td><a href="https://nuxt.com/" target="_blank" rel="noreferrer"><img src="https://nuxt.com/assets/design-kit/icon-green.svg" alt="nuxt" width="40" height="40"/></a></td>
     <td><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://nodejs.org/static/logos/nodejsStackedDark.svg" alt="nodejs" width="40" height="40"/></a></td>
+        <td><a href="https://strapi.io/" target="_blank" rel="noreferrer"><img src="https://oldmol.dev/images/strapi.monogram.logo.svg" alt="nodejs" width="40" height="40"/></a></td>
     <td><a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a></td>
     <td><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://oldmol.dev/images/docker-mark-ocean-blue.svg" alt="docker" width="40" height="40"/></a></td>
     <td><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></td>
